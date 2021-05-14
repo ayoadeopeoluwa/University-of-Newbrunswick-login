@@ -1,0 +1,83 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+header{
+    display: flex;
+    background-color: black;
+    padding: 0.5em;
+}
+ul{
+    list-style: none;
+    display: flex;
+    margin-top: 2em;
+}
+a{
+    text-decoration: none;
+    color: white;
+    margin-right: 1.5em;
+    
+}
+.form-content{
+    width:583px;
+    border: 1px solid #ccc;
+    margin-left:auto;
+    margin-right: auto;
+    text-align: center;
+    margin-top: 7em;
+    margin-bottom: 7em;
+    padding-left: 1.em;
+    padding-right: 1.em;
+
+    
+}
+.form-title{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+a.brown-links{
+    color:darkred;
+    font-size: 14px;
+}
+.input-box{
+    text-align: left;
+    width: 483px;
+    margin: auto;
+    margin-bottom: 2.5em;
+}
+.input-content{
+    width:100%;
+    font-size: 18px;
+    border: 1px solid #ccc;
+    border-radius: 0.2em;
+    padding:0.5em;
+}
+#alignment{
+    text-align: right;
+    margin-right: 1em;
+}
+.check-box{
+    text-align: left;
+    width: 483px;
+    margin: auto;
+    margin-bottom: 0.5em;
+}
+#submit-btn{
+    margin-top: 0.5em;
+    width:503px;
+    font-size: 18px;
+    background-color: rgb(172, 45, 45);
+    border: 1px solid rgb(172, 45, 45);
+    color: white;
+    border-radius: 2em;
+    padding-top: 0.8em;
+    padding-bottom: 0.8em;
+    
+}
+
+#submit-btn:hover{
+    background-color: rgb(119, 3, 3);
+    border: 1px solid rgb(119, 3, 3);
+}
+#end-of-form{
+    margin-bottom: 3em;
+}
