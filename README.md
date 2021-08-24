@@ -1,3 +1,3 @@
 # University-of-Newbrunswick-login
 
-Ready made responsive Login page
+Ready made login page - responsive
